@@ -15,3 +15,9 @@ Rails blog for testing purpose
 * css framework : milligram.scss
 
 * webpack enabled
+
+2 Screenshots below:
+
+![ScreenShot](https://github.com/magiknono/blog6/blob/master/app/assets/images/rails6-1.png)
+
+![ScreenShot](https://github.com/magiknono/blog6/blob/master/app/assets/images/rails6-2.png)
