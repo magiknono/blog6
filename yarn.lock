@@ -771,7 +771,14 @@ actioncable@>=5.2.1:
   version "5.2.2"
   resolved "https://registry.yarnpkg.com/actioncable/-/actioncable-5.2.2.tgz#0ec83195fd363c4d91a2fc19f78e77350aa5caac"
 
-activestorage@>=5.2.1:
+"actiontext@https://github.com/rails/actiontext":
+  version "0.1.0"
+  resolved "https://github.com/rails/actiontext#f2a5c1a541342a886ed3de3b9a15ce06b6bdcde5"
+  dependencies:
+    activestorage ">=5.2.0"
+    trix ">=1.0.0"
+
+activestorage@>=5.2.0, activestorage@>=5.2.1:
   version "5.2.2"
   resolved "https://registry.yarnpkg.com/activestorage/-/activestorage-5.2.2.tgz#035c03f247467c13cd659584833502433099f8f4"
   dependencies:
@@ -5833,6 +5840,10 @@ trim-newlines@^1.0.0:
 trim-right@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
+
+trix@>=1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/trix/-/trix-1.0.0.tgz#e9cc98cf6030c908f8d54e317b5b072f927b0c6b"
 
 "true-case-path@^1.0.2":
   version "1.0.3"
