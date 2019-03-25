@@ -1,10 +1,11 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.5.0'
+ruby '2.5.1'
 
-gem 'rails', github: "rails/rails"
-
+#gem 'rails', github: "rails/rails"
+gem 'rails', '~> 6.0.0.beta3'
+#gem actiontext
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
@@ -24,7 +25,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use actiontext for trix
-gem "actiontext", github: "rails/actiontext", require: "action_text"
+#gem "actiontext", github: "rails/actiontext", require: "action_text"
 # Use ActiveStorage variant
 gem 'image_processing', '~> 1.2'
 

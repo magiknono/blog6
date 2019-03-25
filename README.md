@@ -2,9 +2,9 @@
 
 Rails blog for testing purpose
 
-* Rails version : 6.0.0.alpha
+* Rails version : 6.0.0.beta3
 
-* Ruby version : 2.5.0
+* Ruby version : 2.5.1
 
 * System dependencies : activesupport 5.2 and active*/action* 6.0.0.alpha (with actiontext)
 
@@ -21,3 +21,5 @@ Rails blog for testing purpose
 ![ScreenShot](https://github.com/magiknono/blog6/blob/master/app/assets/images/rails6-1.png)
 
 ![ScreenShot](https://github.com/magiknono/blog6/blob/master/app/assets/images/rails6-2.png)
+
+![ScreenShot](https://github.com/magiknono/blog6/blob/master/app/assets/images/rails6-3.png)
